@@ -11,9 +11,7 @@ http://supersonictv.live:8080/611366/682256/22125
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/5gMIjA2.png",Aniplus English
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/gkluDe9.png", Eurosports 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+#EXTINF:-1 tvg-id="hbo +" tvg-logo="https://rabbitlogo.com/wp-content/uploads/2025/07/hbo.jpg" group-title="",HBO +
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd
